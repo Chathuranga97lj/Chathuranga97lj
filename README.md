@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathuranga</h1>
-<img scr="https://user-images.githubusercontent.com/75485255/201517031-b1a08e88-8846-4c01-8350-cfca58b52bef.png">
+<img src="https://user-images.githubusercontent.com/75485255/201517031-b1a08e88-8846-4c01-8350-cfca58b52bef.png">
 
 <h3 align="center">I am a hardworking and ambitious individual with a great passion for Information Technology</h3>
 
