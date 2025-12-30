@@ -70,10 +70,3 @@ Currently focused on **React, Next.js, Node.js**, and expanding into **Spring Bo
 
 ---
 
-### 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathuranga97lj&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathuranga97lj&theme=tokyonight" height="160"/>
-</p>
-
----
