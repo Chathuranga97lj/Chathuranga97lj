@@ -1,8 +1,9 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Chathuranga</h1>
 <h3 align="center">Web Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75485255/201517031-b1a08e88-8846-4c01-8350-cfca58b52bef.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" width="250"/>
 </p>
 
 ---
@@ -69,4 +70,5 @@ Currently focused on **React, Next.js, Node.js**, and expanding into **Spring Bo
 </p>
 
 ---
+
 
