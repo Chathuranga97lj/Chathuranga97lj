@@ -1,76 +1,74 @@
-<h1 align="center">Chathuranga Jayawardhana</h1>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<h1 align="center">Hi 👋, I'm Chathuranga</h1>
+<h3 align="center">Web Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
-  Full-Stack Developer · Sri Lanka 🇱🇰<br/>
-  Building web applications with <b>React</b>, <b>Next.js</b> and <b>Node.js</b>
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" width="250"/>
 </p>
 
-<p align="center">
-  <a href="https://articlore.wordpress.com/">
-    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+---
+
+### 🚀 About Me
+I'm a passionate **Web Developer** who loves building fast, scalable, and user‑friendly applications.  
+Currently focused on **React, Next.js, Node.js**, and expanding into **Spring Boot** and **Go** to strengthen my backend engineering skills.
+
+---
+
+### 🔥 What I'm Working On
+- Building modern web applications with **React & Next.js**
+- Strengthening backend development with **Node.js**
+- Learning **Spring Boot** (Java) & **Go** for high‑performance backend systems
+
+---
+
+### 🌱 Currently Learning
+- **Spring Boot**
+- **Go (Golang)**
+- Advanced **Next.js** patterns & performance optimization
+
+---
+
+### 🤝 Looking to Collaborate On
+- Open‑source web development projects  
+- Full‑stack applications  
+- UI/UX‑focused React/Next.js projects  
+
+---
+
+### 📫 Reach Me At
+**Email:** chathuit97@gmail.com  
+**Portfolio / Blog:** https://articlore.wordpress.com/
+
+---
+
+### 🌐 Connect With Me
+<p>
+  <a href="https://twitter.com/@chathu97lj" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/chathuranga97/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Chathu97lj">
-    <img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:chathuranga97lj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://linkedin.com/in/chathuranga97" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
-## About
+---
 
-I build fast, accessible web applications end to end — from the interface down to the API. Most of my work is in the React and Next.js ecosystem with TypeScript, and I'm currently deepening my backend engineering with **Spring Boot** and **Go**.
-
-Right now I'm most interested in problems where the frontend has real structural complexity: multi-role applications, permission-aware interfaces, and getting production builds to deploy cleanly.
-
-## Featured Project
-
-### 🎓 [TTG — Tutoring Platform](https://github.com/Chathuranga97lj/ttg-ui-deployment)
-
-A two-sided platform connecting students with tutors around assessment work. Students submit assessments and track them to completion; tutors browse open submissions and pick up the ones matching their subjects — one codebase serving two distinct user roles with role-specific navigation and dashboards.
-
-Built with **Next.js 16 · React 19 · TypeScript · Tailwind v4**, statically exported and deployed to GitHub Pages via GitHub Actions.
-
-**[View Demo →](https://chathuranga97lj.github.io/ttg-ui-deployment/)**
-
-## Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**Data & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chathuranga97lj&show_icons=true&hide_border=true&theme=transparent&hide=contribs" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathuranga97lj&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
 
-## Open To
+---
 
-Full-stack and frontend roles, freelance projects, and collaboration on open-source React/Next.js work.
 
-📫 **[chathuranga97lj@gmail.com](mailto:chathuranga97lj@gmail.com)**
