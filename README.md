@@ -37,7 +37,7 @@ Currently focused on **React, Next.js, Node.js**, and expanding into **Spring Bo
 
 ### 📫 Reach Me At
 **Email:** chathuit97@gmail.com  
-**Portfolio / Blog:** https://articlore.wordpress.com/
+**Portfolio:** https://my-profile-seven-smoky.vercel.app/
 
 ---
 
